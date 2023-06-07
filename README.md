@@ -1,4 +1,4 @@
-### Hi there, Welcome to my page 👋
+### Hi there, I'm Mamatha 👋
 
 <!--
 **MamathaYarramaneni/MamathaYarramaneni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently looking for Full-time oppotunities as a SDE/SWE, starting in January 2024
-- 🔭 I’m currently working on Full Stack Development and Leetcode
-- 🤔 I’m looking for a mentor
+🌱 I’m **actively looking for Full-time oppotunities as a SDE/SWE/Full-stack roles, starting in January 2024** </br>
+🔭 I’m currently working on Full Stack Development and Leetcode </br>
+🤔 I’m looking for a mentor </br>
+📍 Unites States </br>
 
 [![MY LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mamatha-y/)
