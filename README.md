@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Full Stack Development and Leetcode
 - 🤔 I’m looking for a mentor fro guidance
 
-[MY LINKEDIN](https://www.linkedin.com/in/mamatha-y/)
+
+<a href="https://www.linkedin.com/in/mamatha-y/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bandikishores" height="30" width="40" /></a>
