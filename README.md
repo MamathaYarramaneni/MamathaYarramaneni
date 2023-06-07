@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, Welcome to my page 👋
 
 <!--
 **MamathaYarramaneni/MamathaYarramaneni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently looking for Full-time oppotunities as a SDE/SWE, starting in January 2024
+- 🔭 I’m currently working on Full Stack Development and Leetcode
+- 🤔 I’m looking for a mentor fro guidance
+
+[MY LINKEDIN](https://www.linkedin.com/in/mamatha-y/)
