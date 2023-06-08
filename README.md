@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+👩‍🎓 MS CS student at the University at Buffalo (expected December 2023)</br>
 🌱 I’m **actively looking for Full-time oppotunities as a SDE/SWE/Full-stack roles, starting in January 2024** </br>
 🔭 I’m currently working on Full Stack Development and Leetcode </br>
 🤔 I’m looking for a mentor </br>
