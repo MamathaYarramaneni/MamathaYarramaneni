@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 👩‍🎓 MS CS student at the University at Buffalo (expected December 2023)</br>
-🌱 I’m **actively looking for Full-time oppotunities as a SDE/SWE/Full-stack roles, starting in January 2024** </br>
-🔭 I’m currently working on Full Stack Development and Leetcode </br>
-🤔 I’m looking for a mentor </br>
+🌱 **Actively looking for Full-time oppotunities as a SDE/SWE/Full-stack roles, starting in January 2024** </br>
+🔭 Currently working on Full Stack Development and Leetcode </br>
+🤔 Looking for a mentor </br>
 📍 Unites States </br>
 
 [![MY LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mamatha-y/)
+[![MY LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/ma_ya_/)
+
