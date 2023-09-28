@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 🤔 Looking for a mentor </br>
 📍 United States </br>
 
-####  💌 Socials
+### 💌  Socials
 
 [![MY LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mamatha-y/)
 [![MY LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/ma_ya_/)
