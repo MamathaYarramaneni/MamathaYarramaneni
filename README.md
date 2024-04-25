@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 👩‍🎓 MS CS grad, University at Buffalo </br>
 🌱 **Actively looking for Full-time software roles** </br>
 💻 Ongoing project [Tech Blogs Discord Bot](https://github.com/MamathaYarramaneni/techblog-discord-bot) </br>
-👩‍💻 Ex-Full stack at Navis
+👩‍💻 Ex-Full stack at Navis </br>
 🤔 Looking for a mentor </br>
 📍 United States </br>
 
