@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 👩‍🎓 MS CS student at the University at Buffalo (graduating December 2023)</br>
 🌱 **Actively looking for Full-time opportunities as an SDE/SWE/Full-stack roles, starting in January 2024** </br>
 🔭 Currently working on Full Stack Development and Leetcode </br>
-💻 Currently project [Tech Blogs Discord Bot](https://github.com/MamathaYarramaneni/techblog-discord-bot) </br>
+💻 Ongoing project [Tech Blogs Discord Bot](https://github.com/MamathaYarramaneni/techblog-discord-bot) </br>
 🤔 Looking for a mentor </br>
 📍 United States </br>
 
