@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👩‍🎓 MS CS student at the University at Buffalo (graduating December 2023)</br>
-🌱 **Actively looking for Full-time opportunities as an SDE/SWE/Full-stack roles, starting in January 2024** </br>
+👩‍🎓 MS CS student at the University at Buffalo </br>
+🌱 **Actively looking for Full-time software roles** </br>
 🔭 Currently working on Full Stack Development and Leetcode </br>
 💻 Ongoing project [Tech Blogs Discord Bot](https://github.com/MamathaYarramaneni/techblog-discord-bot) </br>
 🤔 Looking for a mentor </br>
