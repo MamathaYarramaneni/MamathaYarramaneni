@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 🌱 **Actively looking for Full-time software roles** </br>
 👩‍💻 Current- Full stack at [Resonate](https://www.linkedin.com/company/resonate-networks/) </br>
-💻 Ongoing projects [Design Pattern Learnings](https://github.com/MamathaYarramaneni/dev-journal/blob/main/src/designpatterns/observer/weatherstation/WeatherStation.java), [Tech Blogs Discord Bot](https://github.com/MamathaYarramaneni/techblog-discord-bot) </br>
+💻 Ongoing projects [LLD and Design Patterns](https://github.com/MamathaYarramaneni/dev-journal/blob/main/src/designpatterns/observer/weatherstation/WeatherStation.java), [Tech Blogs Discord Bot](https://github.com/MamathaYarramaneni/techblog-discord-bot) </br>
 👩‍💻 Ex- Full stack at [Navis](https://www.linkedin.com/company/navis/) </br>
 👩‍🎓 MS CS grad, University at Buffalo </br>
 🤔 Looking for a mentor </br>
